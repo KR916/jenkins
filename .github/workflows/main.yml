@@ -13,4 +13,4 @@ jobs:
       - name: Run a multi-line script
         run: |
           echo This script runs on your self-hosted runner.
-          echo Add other necessary steps here.
+          echo Add other necessary steps here..
